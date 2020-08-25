@@ -1,4 +1,4 @@
-# Email-Template
+# Problem Statement
 email template by fetching data from csv file
 Write a Script(R/Python) which fetch the detail from the CSV and create an email template.
 Things need to do:
