@@ -7,8 +7,6 @@ Things need to do:
 2. Check and fetch email address from the email body section if any present and store it in another CSV. 
 3. Check and fetch mail number from the email body section if any present and store it in another CSV.
 
-You can download data from here : https://drive.google.com/file/d/1zHm2hSl0zCfZwFp_BMCylU7AymxtbTea/view?usp=sharing
-
 Email Template Sample
 first_name: James,last_name: Butt, company_name: Benton, John B Jr,	address:6649 N Blue Gum St,city: New Orleans
 ,county: Orleans,state: LA,zip: 70116,phone1: 504-621-8927,phone: 504-845-1427,email: jbutt@luminate.ai,
